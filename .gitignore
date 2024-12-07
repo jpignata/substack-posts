@@ -132,3 +132,6 @@ dist
 # intellij
 .idea/
 *.iml
+
+# sqlite
+*.db
